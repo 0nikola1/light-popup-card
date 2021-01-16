@@ -2,17 +2,15 @@
 
 # Light popup card (homekit style)
 Popup lovelace card with brightness slider and optional scene selection or a light switch for lights without brightness.
-Can be used in combination with thomas loven browser_mod or custom pop-up card or in combination with my homekit style card: https://github.com/DBuit/Homekit-panel-card
+Can be used in combination with thomas loven browser_mod or custom pop-up card or in combination with homekit style card
 
-
-<a href="https://www.buymeacoffee.com/ZrUK14i" target="_blank"><img height="41px" width="167px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee"></a>
 
 ## Configuration
 
 ### Installation instructions
 
 **HACS installation:**
-Go to the hacs store and use the repo url `https://github.com/DBuit/light-popup-card` and add this as a custom repository under settings.
+Go to the hacs store and use the repo url `https://github.com/0nikola1/light-popup-card` and add this as a custom repository under settings.
 
 Add the following to your ui-lovelace.yaml:
 ```yaml
@@ -174,7 +172,7 @@ card:
       background-color:#FFF;
 ```
 
-![Screenshot of card](https://github.com/DBuit/hass-custom-light-popup-card/blob/development/screenshot.png)
-![Screenshot of card with switch](https://github.com/DBuit/hass-custom-light-popup-card/blob/development/screenshot-switch.png)
-![Screenshot of card with settings](https://github.com/DBuit/hass-custom-light-popup-card/blob/development/screenshot-settings.png)
-![Screenshot of card with settings opened](https://github.com/DBuit/hass-custom-light-popup-card/blob/development/screenshot-settings-page.png)
+![Screenshot of card](https://github.com/0nikola1/hass-custom-light-popup-card/blob/development/screenshot.png)
+![Screenshot of card with switch](https://github.com/0nikola1/hass-custom-light-popup-card/blob/development/screenshot-switch.png)
+![Screenshot of card with settings](https://github.com/0nikola1/hass-custom-light-popup-card/blob/development/screenshot-settings.png)
+![Screenshot of card with settings opened](https://github.com/0nikola1/hass-custom-light-popup-card/blob/development/screenshot-settings-page.png)
